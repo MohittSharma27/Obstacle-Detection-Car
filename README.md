@@ -49,26 +49,13 @@ The car turns in the direction with the most clearance.
 The L298N motor driver controls the direction and speed of the motors based on the Arduino's instructions.
 
 # 🔌 Wiring Connections
-Ultrasonic Sensor (HC-SR04)  
+| Sensor Pin | Arduino Pin |
+| ---------- | ----------- |
+| VCC        | 5V          |
+| GND        | GND         |
+| Trig       | D9          |
+| Echo       | D8          |
 
-Pin	Arduino Pin  
-
-VCC	5V  
-GND	GND  
-
-Trig	D9
-Echo	D8
-Servo Motor
-Wire	Arduino Pin
-Signal	D10
-VCC	5V
-GND	GND
-L298N Motor Driver
-L298N Pin	Arduino Pin
-IN1	D2
-IN2	D3
-IN3	D4
-IN4	D5
 
 # 🚀 Future Improvements
 
