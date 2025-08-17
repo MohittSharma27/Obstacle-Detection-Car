@@ -3,7 +3,7 @@
 This is a simple Arduino-based robot car that detects obstacles using an ultrasonic sensor and automatically avoids them. The project uses an Arduino UNO, L298N motor driver, ultrasonic distance sensor (HC-SR04), servo motor, and four DC motors for movement.
 
 # 📸 Project Overview
-![Car Image][]
+![Car Image][https://github.com/MohittSharma27/Obstacle-Detection-Car/blob/972ab9ab7054ca2d99b53b7cfac3818c50fb731c/Car_1_img.jpeg]
 
 # 🛠️ Circuit Diagram
 ![Circuit Image][]
