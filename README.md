@@ -56,6 +56,28 @@ The L298N motor driver controls the direction and speed of the motors based on t
 | Trig       | D9          |
 | Echo       | D8          |
 
+  | Servo Wire | Arduino Pin |
+| ---------- | ----------- |
+| Signal     | D10         |
+| VCC        | 5V          |
+| GND        | GND         |
+
+  | L298N Pin      | Arduino Pin        |
+| -------------- | ------------------ |
+| IN1            | D2                 |
+| IN2            | D3                 |
+| IN3            | D4                 |
+| IN4            | D5                 |
+| ENA (Enable A) | Jumper (Always ON) |
+| ENB (Enable B) | Jumper (Always ON) |
+
+  | Component   | Connected To                                                         |
+| ----------- | -------------------------------------------------------------------- |
+| L298N VCC   | Battery + (7.4V)                                                     |
+| L298N GND   | Battery - and Arduino GND                                            |
+| Arduino VIN | *(Optional)* L298N 5V output *(⚠️ not recommended under heavy load)* |
+
+  
 
 # 🚀 Future Improvements
 
