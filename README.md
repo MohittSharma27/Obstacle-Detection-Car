@@ -4,6 +4,8 @@ This is a simple Arduino-based robot car that detects obstacles using an ultraso
 
 # 📸 Project Overview
 ![Car Image](https://github.com/MohittSharma27/Obstacle-Detection-Car/blob/972ab9ab7054ca2d99b53b7cfac3818c50fb731c/Car_1_img.jpeg)
+![car Image](https://github.com/MohittSharma27/Obstacle-Detection-Car/blob/88fdaf1cb516f4bdf7cdb23721ea7c2f1c519962/Car_2_img.jpeg)
+![car Image]()
 
 # 🛠️ Circuit Diagram
 ![Circuit Image][]
